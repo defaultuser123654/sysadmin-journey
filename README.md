@@ -25,3 +25,5 @@ chmod 644 → -rw-r--r--
 chmod 700 → -rwx------
 chown testuser → владелец сменился на testuser
 chown user1 → вернул обратно
+## День 2
+- start & enable : enable стоп+перезапуск одной командой используется для смены конфигурации 
